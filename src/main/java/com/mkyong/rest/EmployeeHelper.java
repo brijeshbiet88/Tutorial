@@ -1,3 +1,8 @@
+/*
+ EmployeeHelper Class
+ CopyRight 2017
+*/
+
 package com.mkyong.rest;
 
 import java.util.ArrayList;
