@@ -1,3 +1,8 @@
+/*
+EmployeeResource Class
+Copyright 2017
+*/
+
 package com.mkyong.rest;
  
 import javax.ws.rs.Consumes;
