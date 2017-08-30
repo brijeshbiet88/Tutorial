@@ -1,3 +1,8 @@
+/*
+	Employee Resource 
+	Copyright @2017
+*/
+
 package com.mkyong.rest;
 
 import javax.xml.bind.annotation.XmlRootElement;
