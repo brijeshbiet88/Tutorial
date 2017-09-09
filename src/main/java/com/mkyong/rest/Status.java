@@ -1,8 +1,7 @@
 /*
-<<<<<<< HEAD
- *Added Comments
+ Added Comments
  CopyRight @2017
- * */
+  */
 
 package com.mkyong.rest;
 
