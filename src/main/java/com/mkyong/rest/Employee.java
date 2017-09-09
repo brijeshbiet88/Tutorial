@@ -1,6 +1,6 @@
 /*
  * Added the comments 
- * CopyRight 2017
+ * CopyRight @ 2017
  * /
 
 package com.mkyong.rest;
