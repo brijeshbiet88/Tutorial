@@ -1,4 +1,5 @@
 /*
+<<<<<<< HEAD
  * Added Comments 
  * CopyRights @2017
  */

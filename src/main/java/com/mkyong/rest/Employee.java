@@ -1,7 +1,8 @@
 /*
- * Added the comments 
- * CopyRight @ 2017
- * /
+	Employee Resource 
+	Copyright @2017
+*/
+>>>>>>> 4fd0f765a0981f284ee4f22ccbc66f6dc67ab59f
 
 package com.mkyong.rest;
 
