@@ -1,8 +1,4 @@
-/*
-<<<<<<< HEAD
- * Added Comments 
- * CopyRights @2017
- */
+
 package com.mkyong.rest;
 
 import java.util.ArrayList;
