@@ -1,4 +1,6 @@
-
+/*
+ *
+ */
 package com.mkyong.rest;
 
 import javax.xml.bind.annotation.XmlRootElement;
